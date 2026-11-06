@@ -1,4 +1,4 @@
-### CONTEXTO 1:
+### CONTEXTO 1 (uso do operador AND):
 
 '''
 Para que eu possa dirigir, eu preciso ter:
@@ -17,7 +17,7 @@ elif pergunta1 == "sim" and  pergunta3 == "sim":
     print("Não pode dirigir.")
 
 
-### CONTEXTO 2:
+### CONTEXTO 2 (uso do operador OR):
 
 '''
 Para me deslocar até o SENAC Nova Iguaçu, posso utilizar:
